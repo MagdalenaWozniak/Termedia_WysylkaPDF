@@ -1,0 +1,9 @@
+C:\Users\magdaw\Documents\Termedia\WysylkaPDFConsole\WysylkaPDFConsole\bin\Debug\WysylkaPDFConsole.exe.config
+C:\Users\magdaw\Documents\Termedia\WysylkaPDFConsole\WysylkaPDFConsole\bin\Debug\WysylkaPDFConsole.exe
+C:\Users\magdaw\Documents\Termedia\WysylkaPDFConsole\WysylkaPDFConsole\bin\Debug\WysylkaPDFConsole.pdb
+C:\Users\magdaw\Documents\Termedia\WysylkaPDFConsole\WysylkaPDFConsole\bin\Debug\cdn_api20232.net.dll
+C:\Users\magdaw\Documents\Termedia\WysylkaPDFConsole\WysylkaPDFConsole\obj\Debug\WysylkaPDFConsole.csproj.AssemblyReference.cache
+C:\Users\magdaw\Documents\Termedia\WysylkaPDFConsole\WysylkaPDFConsole\obj\Debug\WysylkaPDFConsole.csproj.CoreCompileInputs.cache
+C:\Users\magdaw\Documents\Termedia\WysylkaPDFConsole\WysylkaPDFConsole\obj\Debug\WysylkaPDFConsole.csproj.CopyComplete
+C:\Users\magdaw\Documents\Termedia\WysylkaPDFConsole\WysylkaPDFConsole\obj\Debug\WysylkaPDFConsole.exe
+C:\Users\magdaw\Documents\Termedia\WysylkaPDFConsole\WysylkaPDFConsole\obj\Debug\WysylkaPDFConsole.pdb
